@@ -1,3 +1,3 @@
-First I wil try to work the streaming correctly myself then eventually see how other coders have done.
+Make sure your videos are in the assets folder and change the HTML to change video.
 
-Ths is reinventing the wheel but why not
+Don't worry this will be sorted out later ✔
