@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background: darkslategrey;
+}
+
+h1 {
+    width: 100%;
+}
+
+button {
+    text-transform: capitalize;
+}
